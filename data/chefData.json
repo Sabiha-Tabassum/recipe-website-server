@@ -2,7 +2,7 @@
     {    "id": "1",
          
           "chef_name": "Liu Chang",
-          "picture": "https://i.ibb.co/qxtVCCr/chef-leu-club-charles-517.jpg",
+          "picture": "https://i.ibb.co/BfH6x7L/chef-2.jpg" ,
           "years_of_experience": 15,
           "number_of_recipes": 75,
           "likes": 2000,
@@ -90,7 +90,7 @@
       {  "id": "3",
         
           "chef_name": "Chen Wei",
-          "picture": "https://i.ibb.co/bQk5MBS/Chef-Richard.jpg" ,
+          "picture": "https://i.ibb.co/jk7C8dD/chef-3.webp"  ,
           "years_of_experience": 10,
           "number_of_recipes": 50,
           "likes": 1500,
@@ -146,7 +146,7 @@
        
         
           "recipe1_name": "Mapo Tofu",
-          "ingredients": ["tofu", "ground pork", "doubanjiang chili bean paste", "Sichuan peppercorns", "garlic", "green onions", "chicken broth", "cornstarch"],
+          "ingredients1": ["tofu", "ground pork", "doubanjiang chili bean paste", "Sichuan peppercorns", "garlic", "green onions", "chicken broth", "cornstarch"],
           "cooking_method1": "1. Brown pork in a wok with garlic and doubanjiang. 2. Add tofu, chicken broth, and Sichuan peppercorns. 3. Thicken sauce with cornstarch. 4. Garnish with green onions. 5. Serve with rice.",
           "rating1": 4.9,
 
@@ -227,7 +227,7 @@
       {  "id": "6",
         
           "chef_name": "Yui Nakamura",
-          "picture": "https://i.ibb.co/nngvjvf/images.jpg" ,
+          "picture": "https://i.ibb.co/S51TDJt/chef-6.webp" ,
           "years_of_experience": 15,
           "number_of_recipes": 100,
           "likes": 2500,
